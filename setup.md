@@ -7,7 +7,7 @@
 
 ### PM2
 1. install pm2 `npm install -g pm2`
-   * (optional) pm2 keymetric monitoring app.keymetrics.io[keymetrics](https://app.keymetrics.io/)
+   * (optional) pm2 keymetric monitoring [app.keymetrics.io](https://app.keymetrics.io/)
 2. run pm2 as serivices `pm2 startup`
 3. save proccess list `pm2 save`
 
