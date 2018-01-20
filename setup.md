@@ -20,3 +20,11 @@
 	pm2 save
 	```
 	
+### PARKIR-MAN (Express)
+1. run parkir-man(express) `DEBUG=parkir:* npm start`
+   * run parkir-man as sevices  with pm2
+   ```Shell
+   pm2 start /root/parkir/bin/www --name "parkir-man" --watch
+   pm2 save
+   ```
+	
